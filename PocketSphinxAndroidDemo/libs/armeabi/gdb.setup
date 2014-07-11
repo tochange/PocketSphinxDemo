@@ -1,0 +1,2 @@
+set solib-search-path E:/Sphinx/PocketSphinxAndroidDemo/obj/local/armeabi
+directory D:/dev/ndkr9/platforms/android-8/arch-arm/usr/include E:/Sphinx/sphinxbase/include/android E:/Sphinx/pocketsphinx/include E:/Sphinx/pocketsphinx/src/libpocketsphinx E:/Sphinx/PocketSphinxAndroidDemo/jni E:/Sphinx/sphinxbase/src/libsphinxbase/fe E:/Sphinx/sphinxbase/src/libsphinxbase/feat E:/Sphinx/sphinxbase/src/libsphinxbase/lm E:/Sphinx/sphinxbase/src/libsphinxbase/util D:/dev/ndkr9/sources/cxx-stl/system
